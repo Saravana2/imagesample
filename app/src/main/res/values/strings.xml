@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ImageSample</string>
+    <string name="animal_image">Animal image</string>
+    <string name="reload_fab">Reload Fab</string>
+</resources>
